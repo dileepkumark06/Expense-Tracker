@@ -53,17 +53,15 @@ expense-tracker/
 
 ## 📸 Screenshots
 
-> *You can add screenshots of the pie and bar charts here.*
+> ![image](https://github.com/user-attachments/assets/eacc520a-7b1b-4ac0-a3e2-b90a2177eab8)
+![image](https://github.com/user-attachments/assets/13d22f52-adf6-4c79-aa9a-6048d08ea843)
+![image](https://github.com/user-attachments/assets/5c5c6100-efef-4a8a-aee7-101026c02498)
 
 ## 🔧 Customization
 
 - Add more categories or budgets.
 - Implement user authentication for multi-user support.
 - Connect to a backend (Firebase, Express.js) for cloud-based storage.
-![image](https://github.com/user-attachments/assets/eacc520a-7b1b-4ac0-a3e2-b90a2177eab8)
-![image](https://github.com/user-attachments/assets/13d22f52-adf6-4c79-aa9a-6048d08ea843)
-![image](https://github.com/user-attachments/assets/5c5c6100-efef-4a8a-aee7-101026c02498)
-
 
 
 
